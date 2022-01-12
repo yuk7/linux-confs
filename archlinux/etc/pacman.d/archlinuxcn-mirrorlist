@@ -1,0 +1,6 @@
+# Arch Linux CN mirror list
+
+Server = https://mirrors.cat.net/archlinuxcn/$arch
+Server = https://mirror.xtom.com.hk/archlinuxcn/$arch
+Server = https://repo.huaweicloud.com/archlinuxcn/$arch
+Server = https://repo.archlinuxcn.org/$arch
